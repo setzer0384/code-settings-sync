@@ -169,7 +169,7 @@
     "webpack-cli": "^3.2.3"
   },
   "dependencies": {
-    "@octokit/rest": "^16.16.4",
+    "@octokit/rest": "^16.20.0",
     "adm-zip": "^0.4.13",
     "fs-extra": "^7.0.1",
     "https-proxy-agent": "^2.2.1",
